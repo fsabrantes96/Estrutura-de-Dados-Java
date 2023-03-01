@@ -1,4 +1,4 @@
-package listaCircular;
+package com.listaCircular;
 
 public class No<T> {
     private T conteudo;
